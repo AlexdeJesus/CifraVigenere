@@ -1,0 +1,56 @@
+label {
+    display:block;float:left;color: black;
+}
+label{ 
+    width:60px; margin:0px 0;
+}
+input{
+    width:150px;
+    color: black;
+}
+a{text-decoration: none; color: blueviolet;}
+table{ margin: 15px 10px 15px 35px; border-color: dimgray;}
+tr{background-color:  #ffcc99;}
+fieldset {
+    width:200px;
+    height:150px ;
+}
+legend{
+    color: black;
+}
+#geral{
+    width: 1000px;
+    height: 700px;
+    margin-top: 0;
+    margin-left: auto;
+    margin-bottom: 0;
+    margin-right: auto;
+    background-color:#F8F8FF;  
+}
+#header{
+    width: 1000px;
+    height: 20px;
+    background-color:"" ;
+}
+#conteudo{
+    width: 1000px;
+    height: 500px;
+    /*background-color: ;*/
+}
+#footer{
+    width: 1000px;
+    height: 100px;    
+    /*background-color: ""#ffcc99;*/
+}
+#conteudo-rigth{
+    width: 650px;
+   height: 550px;
+    float: right;
+   /*background-color:#FFFAF0 ;*/
+}
+#conteudo-left{
+    width: 250px;
+    height: 300px;
+    float:left;
+   /* background-color:#F5F5F5 ;  */  
+}
